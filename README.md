@@ -1,2 +1,3 @@
 # Power-BI-dashboard-for-sales-data-analysis
-It is end to end Power BI project
+Incorporated data analysis methodologies, specialized in time series analysis, to provide useful insights.
+Created KPIs, precise sales forecasting and the creation of interactive dashboards.
